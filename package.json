@@ -4,10 +4,13 @@
   "description": "Newsflow Agent",
   "repository": "https://github.com/ekandreas/newsflow-agent",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "feedparser": "^2.2.0",
+    "request": "^2.81.0"
+  },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",
