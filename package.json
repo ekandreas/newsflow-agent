@@ -1,0 +1,15 @@
+{
+  "name": "newsflow-agent",
+  "version": "3.0.0",
+  "description": "Newsflow Agent",
+  "repository": "https://github.com/ekandreas/newsflow-agent",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
